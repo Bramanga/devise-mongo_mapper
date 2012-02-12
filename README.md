@@ -6,7 +6,7 @@ Add MongoMapper and devise-mongo_mapper to your Gemfile
 
     gem 'mongo_mapper'
     gem 'devise-mongo_mapper',
-      :git    => 'git://github.com/collectiveidea/devise-mongo_mapper
+      :git    => 'git://github.com/collectiveidea/devise-mongo_mapper'
 
 Comment out the current ORM in config/initializers/devise.rb, and add:
 
